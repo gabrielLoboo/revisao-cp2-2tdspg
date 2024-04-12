@@ -1,6 +1,6 @@
 spring:
   application:
-    name: deposito
+    name: aluno
   profiles:
     active: desenvolvimento
   thymeleaf:
